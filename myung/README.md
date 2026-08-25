@@ -4,6 +4,7 @@ GRIA3 Project with Dr. Sam Myung's protocol.
 
 The FASTQ files - structure is as shown below:
 
+```
 0_raw_data/
 ├── AN00030771_10X_RawData_Outs
 │   ├── 1017_G3-8
@@ -58,3 +59,4 @@ The FASTQ files - structure is as shown below:
 │   ├── RawData.statistics.summary.txt
 │   └── RawData.statistics.xlsx
 └── AN00030771_10X_RawData_Outs.tar
+```
