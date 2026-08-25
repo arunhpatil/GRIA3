@@ -1,4 +1,10 @@
-GRIA3 Project with Dr. Sam Myung's protocol.
+## Project Overview and structure:
+
+The project describes single-cell RNA-sequencing (scRNA) of organoids of cortical cells derived from differentiating hPSCs (more accurate description should be replaced here) led by Dr. Brady Maher, LIBD. The computational analysis is performed by the team from Dr. Taeyoung Hwang's lab, LIBD. The experimental protocols are carried out by Sam Myung (PhD), and the sequencing is carried out (I guess) at Psomagen (Methods involving Organoid culture, RNA extraction, and sequencing are described in the Manuscript). This repository summarizes the computational workflow and offers scripts for your reference. 
+
+The detailed workflow is available at the `1_src`, under this repository.  
+
+### GRIA3 Project with Dr. Sam Myung's protocol:
 
 - cortical organoids day 150.
 
